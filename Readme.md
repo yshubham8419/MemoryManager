@@ -31,18 +31,18 @@ This project simulates a memory manager using various allocation strategies: fir
 
 
 ### Usage
-./output/firstfit
-./output/bestfit
-./output/nextfit
-./output/worstfit
+    ./output/firstfit
+    ./output/bestfit
+    ./output/nextfit
+    ./output/worstfit
 
 ### Input
-    Input can be given in input/req.txt
+Input can be given in input/req.txt
 
-    input format:
-    process_size_1 execution_time_1
-    process_size_2 execution_time_2
-    process_size_3 execution_time_3
+input format:
+- process_size_1 execution_time_1
+- process_size_2 execution_time_2
+- process_size_3 execution_time_3
 
 
 
