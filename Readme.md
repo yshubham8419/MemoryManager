@@ -23,11 +23,10 @@ This project simulates a memory manager using various allocation strategies: fir
 
 1. Clone the repository:
 
-2. Change into the project directory:
-    cd MemoryManager
+2. Change into the project directory
 
 3. build the target executables
-    make all
+    ```make all```
 
 
 ### Usage
